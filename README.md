@@ -5,7 +5,7 @@
 
 [![Download on the App Store](https://img.shields.io/badge/App%20Store-Download-blue?logo=apple)](https://apps.apple.com/vn/app/productivitism-life-rpg/id6761625990)
 [![Website](https://img.shields.io/badge/Website-productivitism.com-green)](https://productivitism.com)
-
+<a href="https://www.producthunt.com/products/productivitism?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-productivitism" target="_blank" rel="noopener noreferrer"><img alt="Productivitism - productivity,pixel,rpg,cozy,note,focus,adhd | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1116533&amp;theme=neutral&amp;t=1775886244205"></a>
 ![](./ss.PNG)
 
 ---
